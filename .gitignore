@@ -1,0 +1,30 @@
+# Logs produced by OneDrive Nuke / Restore
+OneDriveNuke_*.log
+OneDriveRestore_*.log
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+
+# PowerShell
+*.psproj
+*.suo
+*.user
+
+# Local test artifacts
+test/
+tmp/
+*.bak
