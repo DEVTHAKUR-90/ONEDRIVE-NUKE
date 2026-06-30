@@ -20,7 +20,7 @@
 </td></tr>
 </table>
 
-
+<div align="center">
 ### Complete OneDrive removal + permanent installation lockout for Windows 10 & 11
 **...and nothing else. Ever.**
 
