@@ -74,17 +74,17 @@ OneDrive Nuke performs a **complete, machine-wide removal** of Microsoft OneDriv
 
 ```
 ┌──────────────────────────────┬──────────────────────────────┐
-│        PHASE 1: REMOVAL       │       PHASE 2: LOCKOUT        │
+│        PHASE 1: REMOVAL      │       PHASE 2: LOCKOUT       │
 ├──────────────────────────────┼──────────────────────────────┤
-│  Kill processes                │  Group Policy                │
-│  Run official uninstallers     │  (OneDrive's own key only)   │
-│  Delete scheduled tasks        │                               │
-│  Remove services               │  IFEO debugger hijack        │
-│  Take ownership of EXEs        │                               │
-│  Wipe per-user folders         │  Software Restriction Policy │
-│  Clean every user's registry   │                               │
-│  Remove shell extensions       │  Verify all blocks are live  │
-│  Drop startup shortcuts        │                               │
+│  Kill processes              │  Group Policy                │
+│  Run official uninstallers   │  (OneDrive's own key only)   │ 
+│  Delete scheduled tasks      │                              │
+│  Remove services             │  IFEO debugger hijack        │
+│  Take ownership of EXEs      │                              │
+│  Wipe per-user folders       │ Software Restriction Policy  │
+│  Clean every user's registry │                              │
+│  Remove shell extensions     │  Verify all blocks are live  │
+│  Drop startup shortcuts      │                              │
 └──────────────────────────────┴──────────────────────────────┘
 ```
 
