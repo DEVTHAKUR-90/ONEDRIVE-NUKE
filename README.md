@@ -1,4 +1,5 @@
-<div align="center">
+<table align="center">
+<tr><td>
 
 ```text
    ____  _   _ ______ _____  _____  _______      ________ 
@@ -16,7 +17,9 @@
                 |_| \_|\____/|_|\_\______|
 ```
 
-</div>
+</td></tr>
+</table>
+
 
 ### Complete OneDrive removal + permanent installation lockout for Windows 10 & 11
 **...and nothing else. Ever.**
