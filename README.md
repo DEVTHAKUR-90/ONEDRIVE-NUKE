@@ -19,7 +19,7 @@
 </pre>
 
 <div align="center">
-### Complete OneDrive removal + permanent installation lockout for Windows 10 & 11
+Complete OneDrive removal + permanent installation lockout for Windows 10 & 11
 **...and nothing else. Ever.**
 
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
